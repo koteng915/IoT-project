@@ -1,16 +1,16 @@
 # IoT-project
 IoT project for Software Engineering course (SKEL413) on Flood Monitoring System
 
-#Problem Statement
+## Problem Statement
 
 
-#System Architecture
+## System Architecture
 
 
-#Sensor
+## Sensor
 
 
-#Cloud Platform
+## Cloud Platform
 
 
-#Dashboard
+## Dashboard
