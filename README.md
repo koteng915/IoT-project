@@ -109,5 +109,5 @@ class HCSR04:
 ThingSpeak is a software which can communicate with internet enabled devices. ThingSpeak can store the data in the channel and analyze it.
 
 ## Dashboard
-This is the example of the dashboard by using Thingspeak.
-![image](https://user-images.githubusercontent.com/94040083/147047818-d894712b-44de-4082-84ea-07204f543a9e.png)
+link: https://thingspeak.com/channels/1615673
+![image](https://user-images.githubusercontent.com/94040083/153732952-b4d6241d-92e0-4bbc-8236-fc0e859ccc0f.png)
