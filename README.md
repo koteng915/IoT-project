@@ -5,7 +5,8 @@ IoT project for Software Engineering course (SKEL413) on Flood Monitoring System
 Flood is a major known natural disaster that causes a huge amount of loss to the environment and living beings. So in these conditions, it is most crucial to get the emergency alerts of water level status at river beds in different conditions. In this project, the objective is to sense the water levels at river beds and check whether they are at a normal condition or not.
 
 ## System Architecture
-![system architecture](https://user-images.githubusercontent.com/94040083/147046684-43c0744f-665b-4bf8-b4fe-7f2ab068594a.jpg)
+![image](https://user-images.githubusercontent.com/94040083/153735692-6e797963-fbb2-461c-8ced-6640a0a9923d.png)
+
 
 ## Sensor
 The sensor we use is HC-SR04 Ultrasonic Sensor. The ultrasonic sensor works on the principle of ultrasound waves which is used to determine the distance to an object. 
